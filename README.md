@@ -8,5 +8,5 @@ Currently, I m interning with Mirabilis Design Inc. as a Software Engineer inter
 
 - 💞️ I’m looking to collaborate on **anything**. Yes, I m up for any discussion on technologies.
 
-- 📫 How to reach me - Get me contact details from my portfolio - https://yash2673.netlify.app/ 
+- 📫 How to reach me - Get my contact details from my portfolio - https://yash2673.netlify.app/ 
 
