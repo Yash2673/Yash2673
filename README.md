@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/66364580/141842653-659e60d4-90c2-4641-8475-c972402700c3.png)
+
 - 👋 Hi, I'm Yash, a Junior at Jadavpur University pursuing a Bachelor of Engineering degree and a Software Developer in making. I love to find technology-based solutions to real-life problems.
 I started my professional career as an aspiring web developer, skilled in React Application development, Firebase, and deep knowledge about Data Structures and Algorithms which is subtly used in every technical solution.
 Currently, I m interning with Mirabilis Design Inc. as a Software Engineer intern working on VisualSim - A simulation software by Mirabilis by adding new functionalities, finding existing bugs and fixing them, and following the complete SDLC lifecycle to create new patches for the product.
